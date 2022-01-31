@@ -8,7 +8,7 @@ h1 {
     font-family: 'AvaraBold';
     font-weight: normal;
     font-style: normal;
-    color: #523e59;
+    color: #642728;
 }
 #content {
     overflow: auto;}
@@ -28,18 +28,21 @@ h1 {
 .column3 {
     margin-right: 0%;
 background-color: #6c6b75;}
+
 li {
     display: inline;
     padding: 0.5em;}
+
 #nav, #footer {
     padding: 0.5em 0;}
+
 #feature, .article {
     height: 10em;
     margin-bottom: 1em;
     }
 
 #feature {
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/425/35/654/moon-minimal-wolf-howling-silhouette-wallpaper-preview.jpg);
+    background-image: url(https://i.pinimg.com/originals/c4/5a/7c/c45a7c62bfe50497ca660242b5652538.png);
 }
 
 #nav {

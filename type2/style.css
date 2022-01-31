@@ -1,1 +1,51 @@
+body {
+    background-image:url(https://wallpaperaccess.com/full/3089023.png);
+    width: 90%;
+    margin: 0 auto;
+text-align: center;}
 
+h1 {
+    font-family: 'PetitFormalScriptRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: coral;
+}
+#content {
+    overflow: auto;}
+#nav, #feature, #footer {
+    margin: 1%;}
+.column1, .column2, .column3 {
+    width: 31.3%;
+    float: left;
+    margin: 1%;}
+
+.column1{
+    background-color: darkslategrey;
+}
+.column2{
+    background-color: darkgrey;
+}
+.column3 {
+    margin-right: 0%;
+background-color: cyan;}
+li {
+    display: inline;
+    padding: 0.5em;}
+#nav, #footer {
+    padding: 0.5em 0;}
+#feature, .article {
+    height: 10em;
+    margin-bottom: 1em;
+    }
+
+#feature {
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-hand-painted-cartoon-outdoor-scenery-mountain-range-image_48353.jpg);
+}
+
+#nav {
+    background-color: lightgoldenrodyellow;
+}
+
+#footer {
+    background-color: lightgoldenrodyellow
+}
